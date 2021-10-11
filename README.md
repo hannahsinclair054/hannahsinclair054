@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hannahsinclair054
-- 👀 I’m interested in computer science: specifically all types of coding languages as well cyber security and AI.
+- 👀 I’m interested in computer science.
 - 🌱 I’m currently learning sheCodes Pro
 
 <!---

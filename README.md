@@ -4,12 +4,11 @@ Hi 👋 My name is Hannah Sinclair
 CS Student
 ----------
 
-I've been learning code for 4 years now. I've graduated from all the SheCodes Programs: Basic, Plus, Responsive and React.
+
 
 * 🌍  I'm based in Britian
-* ✉️  You can contact me at [hannahsinclair054@gmail.com](mailto:hannahsinclair054@gmail.com)
-* 🚀  I'm currently working on [Weather App](http://flamboyant-easley-46006c.netlify.app/)
-* 🧠  I'm learning to build my own profile website
+
+* 
 
 ### Skills
 

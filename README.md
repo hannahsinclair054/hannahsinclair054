@@ -4,12 +4,6 @@ Hi 👋 My name is Hannah Sinclair
 CS Student
 ----------
 
-
-
-* 🌍  I'm based in Britian
-
-* 
-
 ### Skills
 
 <p align="left">
